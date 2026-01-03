@@ -1,0 +1,17 @@
+# --- Secrets ---
+config_Markus.py
+config_PKK.py
+config_poker.py
+
+# --- PyCharm/IntelliJ Files ---
+.idea/
+*.iml
+*.xml
+
+# --- Python Internals ---
+__pycache__/
+*.pyc
+.venv/
+
+# --- Local Outputs ---
+*.png
